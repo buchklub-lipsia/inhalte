@@ -18,14 +18,14 @@ Beim Bearbeiten der Quelltexte muss zwingend penibel genau auf das Format
 Paare. Geordnet bedeutet, dass diese Paare in Objekten oder Listen
 zusammengefasst werden können. Jedes Paar wird in einer eigenen Textzeile definiert und folgt dem folgenden Schema:
 
-```json
+```
 schlüsselname: wert, der dem Schlüssel zugeordnet wird
 ```
 
 Dabei ist der Doppelpunkt nach dem Schlüsselnamen Pflicht. Eine Ausnahme dieses
 Schemas bilden Werte, die so lange sind, dass man sie auch mehrere Zeilen schreiben will:
 
-```json
+```
 schlüsselname: '''
     Der Wert, der dem Schlüssel zugeordnet wird.
     <br>Der ist in diesem Falle so lang, dass man ihn auf mehrere
@@ -45,7 +45,7 @@ Zu beachten ist der auch hier verpflichtende Doppelpunkt nach dem Schlüsselname
 Objekte sind einfache Zusammenfassungen von Schlüssel-Wert Paaren. Auf diese
 Weise werden bspw. die einzelnen Bücher definiert:
 
-```json
+```
 kapital_buch: {
     name: Das Kapital
     author: Karl Marx
@@ -62,7 +62,7 @@ stehen, sind Teil des Objekts.
 Listen sind ebenfalls Zusammenfassungen. Im Gegensatz zu Objekten fassen sie
 allerdings keine Schlüssel-Wert Paare zusammen, sondern Werte ohne Namen:
 
-```json
+```
 früchte: [Apfel, Banane, Ananas]
 ```
 
@@ -71,7 +71,7 @@ früchte: [Apfel, Banane, Ananas]
 Objekte und Listen lassen sich beliebig einbetten. Damit ist beispielsweise
 `books.hjson` eine Liste von Objekten (nämlich den Büchern):
 
-```json
+```
 [ <- Markiert den Start der Liste
     { <- Markiert den Start des ersten Objektes (Buchs) in der Liste
         name: Lushins Verteidigung
