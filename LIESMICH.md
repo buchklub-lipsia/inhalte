@@ -8,6 +8,7 @@
     3. Listen (Arrays)
     4. Einbettungen
 2. Bedeutung der Dateien
+3. Anleitung
 
 ## Hinweise zum Format
 
