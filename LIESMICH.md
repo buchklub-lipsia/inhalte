@@ -94,3 +94,21 @@ Die Inhalte der Website sind gesammelt in drei Dateien:
 - `global.hjson`: Enthält globale Attribute der Website
 - `books.hjson`: Enthält alle Bücher und die Bewertungen der Mitglieder
 - `members.hjson`: Enthält alle Mitglieder und deren Infos
+
+## Anleitung
+
+Um die Inhalte der Website bearbeiten zu können, benötigt man ein kostenfreies Konto bei
+github.com, das [hier](https://github.com/signup) erstellt werden kann. Sobald
+man ein Konto hat, kann man vom Webmaster als Kollaborator hinzugefügt werden
+(hierfür benötigt dieser den Namen des Kontos und/oder die E-Mail Adresse).
+
+Als hinzugefügter Kollaborator kann man die Inhalte der Website bearbeiten.
+Dazu navigiert man (am Rechner und bei GitHub angemeldet) zum
+[Repository](https://www.github.com/buchklub-lipsia/inhalte) und drückt die
+Punkt-Taste (.). Damit öffnet sich ein Text-Editor, in welchem man links die
+Dateien auswählen und bearbeiten kann. Ist man fertig, so drückt man ganz links
+auf das Symbol mit den drei Kreisen, die gegabelt miteinander verbunden sind
+(und eine 1 unten rechts haben sollten; »Quellcodeverwaltung«). Nun gibt man
+links bei »Nachricht« eine kurze Beschreibung der Veränderungen ein (bspw.
+»Alex Mitglied-Infos geändert«) und drückt auf »Commit und Push« darunter. Nun
+sind die Änderungen eingereicht und werden bald auf der Website erscheinen.
