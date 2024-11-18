@@ -23,7 +23,11 @@
             {
                 from: malte
                 rating: 4
-                content: ""
+                content: '''
+                    Nabokov scheint den Charakter der Geschichte, Lushin, mit namenlosen Typen zu umgeben.
+                    Besonders auffällig ist der der aufopfernden ♕, die sich aus nicht nachvollziehbaren Gründen diesem grobschlächtigen Sonderling annimmt.
+                    Selbst Maestro Lushin wirkt beizeiten eher wie ein Typus – analog etwa zu den »Figuren« des Schachspiels?
+                    Ob Lushins Verteidigung nun ein Schachproblem ist oder nicht – ein lesenswertes Buch ist es allemal – quod erat expectandum.'''
             }
         ]
     }
