@@ -1,14 +1,31 @@
 [
     {
+        name: Picknick am Wegesrand
+        author: Arkadi & Boris Strugazki
+        done: false
+        year: 1972
+        short-info: ""
+        info: ""
+        originator: malte
+        proposal-date: November 2024
+        comments: []
+    }
+    {
         name: Lushins Verteidigung
         author: Vladimir Nabokov
-        done: false
+        done: true
         year: 1930
-        short-info: aus dem Russischen von Dieter E. Zimmer
-        info: ""
+        short-info: übersetzt von Dietmar Schulte
+        info: Wir lasen die Übersetzung von Dietmar Schulte, herausgegeben von Dieter E. Zimmer im Rohwolt-Verlag.
         originator: jessi
         proposal-date: Juli 2024
-        comments: []
+        comments: [
+            {
+                from: malte
+                rating: 4
+                content: ""
+            }
+        ]
     }
     {
         name: Quecksilber
