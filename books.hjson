@@ -1,14 +1,151 @@
 [
     {
+        name: Der Club der toten Dichter/Dead Poets Society
+        author: N. H. Kleinbaum
+        done: false
+        year: 1989
+        short-info: ... das wir auf Deutsch und Englisch lasen!
+        info: ""
+        originator: linus
+        proposal-date: Januar 2024
+        comments: [
+            {
+                from: malte
+                rating: 0.5
+                content: '''
+                Der Film, dessen Drehbuch Kleinbaum zu einem Roman glorifiziert hat, mag noch so gut sein.
+                Diese Adaption aber, die man beim besten Willen treffender als »Merchandising-Artikel« bezeichnen muss, ist hingegen schrecklich.
+                Dem Leser wird kein literarisches Werk, sondern die Aufzählung einzelner Handlungsteile präsentiert.
+                Die Katastrophe des fünften Aktes passt nicht zu den ersten vier Akten und ist von einer eigentlichen tragweite, die sich Kleinbaum nicht verdient hat.
+                Die »Liebesgeschichte« zwischen Knox und Chris ist zum Kotzen ekelerregend und passt in den frauenverachtenden Kanon dieses Buches.
+                Schließlich ist die anti-intellektualistische Einstellung des Lehrers Keating bemerkenswert und basiert auf dem Strohmann »Dr. Pritchard«.
+                Diese Buch ist es offenbar nicht einmal Wert, dass ich meine Parataxen schön miteinander bekannt mache.
+                Ich nehme dieses Buch nicht an und finde es auch schlimm, dass ich einige einige Stunden das hier lesen musste!'''
+            }
+        ]
+    }
+    {
+        name: Ansichten eines Clowns
+        author: Heinrich Böll
+        done: true
+        year: 1963
+        short-info: ""
+        info: "Unser erstes deutsches Buch und das zweite eines Nobelpreisträgers."
+        originator: alex
+        proposal-date: Dezember 2024
+        comments: [
+            {
+                from: linus
+                rating: 5
+                content: '''
+                    Eine bahnbrechende Parabel für die Scheinmoral der
+                    Gesellschaft, insbesondere der katholischen Kirche und des
+                    Bürgertums der Nachkriegszeit. So tragisch die Erzählung, so
+                    komisch ist der Erzählweise aus Sicht des Clowns Hans Schier.
+                    Handlungstreibendes Motiv ist zwar die am Konventionalismus
+                    gescheiterte Liebe zu Marie. Das Werk als Liebesroman abzutun,
+                    wird diesem jedoch keinesfalls gerecht.'''
+            }
+            {
+                from: malte
+                rating: 5
+                content: '''
+                    Zwischen eindrücklicher und wirksamer Darstellungen der
+                    gescheiterten Entnazifizierung und dem gekonnten Demontieren
+                    des christlichen Spießbürgertums hat Heinrich Böll hier sicherlich einen
+                    der lustigsten und unterhaltsamsten Romane der Weltliteratur
+                    vorgelegt.'''
+            }
+            {
+                from: alex
+                rating: 5
+                content: '''
+                    Ein durch und durch gelungenes Werk satirischer Literatur!
+                    »Ansichten eines Clowns« liefert einen detaillierten und
+                    authentischen Einblick in den Alltag der Nachkriegszeit,
+                    durchzogen mit lauten und leisen Spitzen gegen die
+                    vorherrschende Doppelmoral der Gesellschaft – insbesondere des
+                    Verbandskatholizismus – der 50er Jahre. Der Kraftakt aller,
+                    sich oberflächlich als moralisch und korrekt darzustellen, von
+                    Clown Schnier als »Zeitalter der Prostitution« bezeichnet,
+                    offenbart schonungslos die Schwächen, Missgunst und den
+                    Egozentrismus der Beteiligten – und das in einer höchst
+                    komischen und raffinierten Weise, die sprachlich begeistert. Im
+                    Roman wird eine junge Liebe Opfer dieser Umstände – das im
+                    Roman Beschriebene gilt jedoch für weit mehr, als nur diese
+                    Trennung, und beglückt den Leser als ein kleines Stück
+                    Zeitgeschichte.'''
+            }
+        ]
+    }
+    {
         name: Picknick am Wegesrand
         author: Arkadi & Boris Strugazki
-        done: false
+        done: true
         year: 1972
         short-info: ""
-        info: ""
+        info: "Wir lasen verschiedene Editionen, unter anderem übersetzt von David Drevs"
         originator: malte
         proposal-date: November 2024
-        comments: []
+        comments: [
+            {
+                from: alex
+                rating: 3.5
+                content: '''
+                    Am Ende bleiben mir dutzende offene Fragen und ein Gefühl der Unzufriedenheit,
+                    trotz einer für sich interessanten Geschichte mit ausreichend Spannung und
+                    fassbaren Charakteren. Ich hatte allerdings etwas mehr erwartet, als ein »nur«
+                    solides Buch, zu dem mir unerwartet wenig einfiel. Möglicherweise fehlte mir
+                    ausreichendes Hintergrundwissen, um die leisen, verwirrend flüsternden
+                    Interpretationsansätze entwirren zu können.'''
+            }
+            {
+                from: linus
+                rating: 3.5
+                content: '''
+                    Durch die kernige und authentische Sprache des Romans, ist man
+                    als Leser:in ganz dicht an dem Charakter des Stalkers Roderic
+                    Shuchart und begleitet ihn durch seine gefährlichen Einsätze in
+                    der Zone. Außerirdische haben nach einem Besuch auf der Erde
+                    nicht nur unbewohnbare Zonen sondern auch mysteriöse
+                    Gegenstände in eben diesen Zonen hinterlassen. Wie es sich für
+                    einen guten Sci-fi Roman gehört, hat man zu Beginn ganz viele
+                    Fragezeichen beim lesen vor Augen. Jedoch schafft es der Roman
+                    nicht viele dieser Fragen aufzulösen, sodass man die
+                    Weltgestaltung gar nicht in seiner Meisterhaftigkeit bewundern
+                    kann, weil einfach zu viele Lücken blieben. Entgegen Roderics
+                    Wunsch musste ich daher etwas enttäuscht fortgehen.'''
+            }
+            {
+                from: jessi
+                rating: 3.5
+                content: '''
+                    Eine Sache, die mich an »Ein Picknick am Wegesrand« positiv überrascht hatte,
+                    war die teils sehr humoristische Ausdrucksweise des Erzählenden. Das ist etwas,
+                    was ich von russischen Büchern eigentlich nicht kenne; die hatte ich immer als
+                    sehr ernst und fast schon humorlos empfunden. Das Buch an sich fand ich recht
+                    interessant, vor allem das Konzept, dass die Außerirdischen selbst keine
+                    direkte Präsenz zeigen, außer den Dingen, die sie auf der Welt hinterlassen
+                    haben. Daraus entwickelt sich ein gieriges Bestreben von „Schatzjägern“, sich
+                    durch diese Artefakte zu bereichern, was ich als Kapitalismuskritik
+                    wahrgenommen habe (surprise, wenn es ein Buch ist, das in der DDR genehmigt
+                    wurde :D)<br>
+                    An und für sich ein sehr düsteres Buch, jedoch bin ich kein
+                    großer Sci-Fi Fan, weswegen ich mich an einigen Stellen mit
+                    dem Lesen etwas gequält hatte. Vielleicht liegt es auch
+                    daran, dass einige Dinge eher »kryptisch« behandelt wurden.'''
+            }
+            {
+                from: malte
+                rating: 3.51
+                content: '''
+                    Die Strugazkis haben mit diesem Roman meine Erwartungen
+                    leider nicht erfüllt. Würde man sich mit der Sowjetunion
+                    auskennen, hätte man bestimmt mehr von dieser Erzählung
+                    gehabt. Für mich also leider eine angenehme Lektüre ohne
+                    viel Mehrwert.'''
+            }
+        ]
     }
     {
         name: Lushins Verteidigung
