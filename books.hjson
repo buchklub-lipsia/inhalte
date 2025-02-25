@@ -1,11 +1,22 @@
 [
     {
+        name: Nachmittage
+        author: Ferdinand von Schirach
+        done: false
+        year: 2022
+        short-info: ""
+        info: ""
+        originator: jessi
+        proposal-date: Februar 2025
+        comment: []
+    }
+    {
         name: Der Club der toten Dichter/Dead Poets Society
         author: N. H. Kleinbaum
-        done: false
+        done: true
         year: 1989
-        short-info: ... das wir auf Deutsch und Englisch lasen!
-        info: ""
+        short-info: In Originalsprache und der Übersetzung von Ekkehart Reinke
+        info: "... das wir auf Deutsch und Englisch lasen!"
         originator: linus
         proposal-date: Januar 2024
         comments: [
@@ -13,14 +24,83 @@
                 from: malte
                 rating: 0.5
                 content: '''
-                Der Film, dessen Drehbuch Kleinbaum zu einem Roman glorifiziert hat, mag noch so gut sein.
-                Diese Adaption aber, die man beim besten Willen treffender als »Merchandising-Artikel« bezeichnen muss, ist hingegen schrecklich.
-                Dem Leser wird kein literarisches Werk, sondern die Aufzählung einzelner Handlungsteile präsentiert.
-                Die Katastrophe des fünften Aktes passt nicht zu den ersten vier Akten und ist von einer eigentlichen tragweite, die sich Kleinbaum nicht verdient hat.
-                Die »Liebesgeschichte« zwischen Knox und Chris ist zum Kotzen ekelerregend und passt in den frauenverachtenden Kanon dieses Buches.
-                Schließlich ist die anti-intellektualistische Einstellung des Lehrers Keating bemerkenswert und basiert auf dem Strohmann »Dr. Pritchard«.
-                Diese Buch ist es offenbar nicht einmal Wert, dass ich meine Parataxen schön miteinander bekannt mache.
-                Ich nehme dieses Buch nicht an und finde es auch schlimm, dass ich einige einige Stunden das hier lesen musste!'''
+                Der Film, dessen Drehbuch Kleinbaum zu einem Roman glorifiziert
+                hat, mag noch so gut sein.  Diese Adaption aber, die man beim
+                besten Willen treffender als »Merchandising-Artikel« bezeichnen
+                muss, ist hingegen schrecklich.<br>
+                Dem Leser wird kein literarisches Werk, sondern die Aufzählung
+                einzelner Handlungsteile präsentiert.  Die Katastrophe des
+                fünften Aktes passt nicht zu den ersten vier Akten und ist von
+                einer eigentlichen Tragweite, die sich Kleinbaum nicht verdient
+                hat.  Die »Liebesgeschichte« zwischen Knox und Chris ist zum
+                Kotzen ekelerregend und passt in den Frauen verachtenden Kanon
+                dieses Buches.  Schließlich ist die anti-intellektualistische
+                Einstellung des Lehrers Keating, der die Literaturwissenschaft
+                auf die rein subjektive Erfahrung reduziert, furchterregend und
+                basiert auf einem Strohmann (»Dr. Pritchard«).  Diese Buch ist
+                es offenbar nicht einmal Wert, dass ich meine Parataxen schön
+                miteinander bekannt mache.<br>
+                Ich nehme dieses Buch nicht an und finde es auch schlimm, dass
+                ich einige Stunden das hier lesen musste!'''
+            }
+            {
+                from: alex
+                rating: 0
+                content: '''
+                    Wer aus einem Film ein Buch macht, der sollte dem Film etwas hinzuzufügen
+                    haben, oder aber als absolutes Minimum die Erzählung dem Medium Roman anpassen.
+                    Kleinbaum ist mit ihrer Wiedergabe des beliebten Filmklassikers an dieser
+                    Aufgabe kläglich gescheitert und liefert uns ein glorifiziertes Drehbuch ohne
+                    jeglichen Mehrwert. Schon im Verlauf des ersten Kapitels fällt auf, dass eine
+                    wiedererkennbare, interessante Erzählstimme vollkommen fehlt; es handelt sich
+                    vielmehr um eine bloße Aufzählung der Geschehnisse, ohne, dass diese
+                    tiefergehend beschrieben werden. Was in einer Filmmontage schön aussieht und
+                    visuell nachvollziehbar ist, wird in einem Buch zu einer Farce. Hinzukommen
+                    unglaubwürdige Szenen, die sich im Verlauf der Geschichte überhaupt nicht
+                    anbahnen und ein Lehrer, der nicht lehrt.
+
+                    In diesem „Roman“ ist absolut nichts von Wert zu finden.
+                '''
+            }
+            {
+                from: jessi
+                rating: 1
+                content: '''
+                    Zuerst habe ich die Geschichte von „Dead Poets Society“ genossen. Ich mochte
+                    die Idee einer strengen Jungenakademie und dem Struggle der jugendlichen
+                    Hauptcharaktere, den Erwartungen ihres Umfelds und der Gesellschaft gerecht zu
+                    werden. Begeistert hat mich das Konzept eines Lehrers, der diesen Druck auf
+                    einmal umwirft und entgegen aller Erwartungen von seinen Schülern Leichtigkeit
+                    erwartet. Was komisch ist, wenn ich darüber nachdenke, denn Leichtigkeit kann
+                    man nicht erzwingen.<br>
+                    Ich habe viele eigene Ideen, Vorstellungen und Meinungen während des Lesens
+                    eingebracht und wenig auf die Art, wie das Buch verfasst wurde, geachtet. Nach
+                    unserem Buchklubtreffen musste ich feststellen, dass das Buch nicht das alles
+                    war, was ich darin hineininterpretiert hatte. Das passiert mir sonst nie nach
+                    unseren Treffen, dass sich meine Meinung so stark danach ändert. Aber bei
+                    diesem Buch war es wohl kein großer Verlust. Es sind viele Lücken, Unreinheiten
+                    und einfach nicht schön geschriebene Stellen erkennbar, die uns teilweise
+                    verstört zurückgelassen haben (Hust hust, die Partyszene, hust). Fragt mich
+                    nicht, wie ich das beim Lesen ausgeblendet habe. Vielleicht, weil ich nur noch
+                    wenige Tage Zeit zum Lesen hatte, ups. Naja, das Ding kriegt 1/5 Sterne von
+                    mir. Der Film soll aber super sein, auf den freue ich mich.
+                '''
+            }
+            {
+                from: linus
+                rating: 1
+                content: '''
+                    Ich habe mich sehr auf das Buch gefreut und wurde maßlos enttäuscht. Wie ist es
+                    möglich, dass ein Buch, das den Sinn des Lebens im Ästhetischem (insbesondere
+                    der Literatur) sieht, so schlecht geschrieben sein? Der ganze Roman wirkt als
+                    hätte man Chat-gpt gebeten die Szenen aus dem Film in Textform zu bringen. Ich
+                    habe noch nie ein Buch gelesen, dass es verglichen mit dem Film schafft weniger
+                    Informationen und Hintergründe zu vermitteln. Auch von der plumpen Sprache
+                    abgesehen, bleibt die Geschichte weit unter dem Potential seiner Prämisse. Die
+                    Schüler sind flach und verwechselbar, Neils Vater ist als Charakter extrem
+                    unglaubwürdig und die Repräsentation von Frauen ist einfach ekelhaft. Es tut
+                    mir leid, dass N. H. Kleinbaum ihre und unsere Zeit verschwendet hat.
+                '''
             }
         ]
     }
